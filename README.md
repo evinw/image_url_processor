@@ -1,4 +1,4 @@
-# image_url_processor
+# Image url processor.
 
 Great tool for scraper routines.
 Save file from url and save it locally.
